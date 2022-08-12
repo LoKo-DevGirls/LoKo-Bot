@@ -1,0 +1,25 @@
+{
+  "name": "loko-bot",
+  "version": "1.0.0",
+  "description": "Discord bot only for LoKo-DevGirls ⚡️",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoKo-DevGirls/LoKo-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoKo-DevGirls/LoKo-Bot/issues"
+  },
+  "homepage": "https://github.com/LoKo-DevGirls/LoKo-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}
